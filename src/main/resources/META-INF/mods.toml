@@ -5,7 +5,7 @@ issueTrackerURL="https://github.com/PufferTeam/Grassy-Plants/issues"
 
 [[mods]]
 modId="grassyplants"
-version="1.0"
+version="${file.jarVersion}"
 displayName="Grassy Plants"
 logoFile="examplemod.png"
 credits="TurtyWurty, minemobs"
