@@ -1,16 +1,15 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="All rights reserved"
-issueTrackerURL="https://github.com/PufferTeam"
+license="MIT"
+issueTrackerURL="https://github.com/PufferTeam/Grassy-Plants/issues"
 
 [[mods]]
 modId="grassyplants"
-version="1.16.0.1"
+version="1.0"
 displayName="Grassy Plants"
 logoFile="examplemod.png"
 credits="TurtyWurty, minemobs"
-authors="FuguClub"
+authors="FuguTeam"
 description='''
 ...
-
 '''
