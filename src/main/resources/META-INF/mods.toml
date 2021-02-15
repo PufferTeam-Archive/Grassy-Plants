@@ -9,7 +9,7 @@ version="${file.jarVersion}"
 displayName="Grassy Plants"
 logoFile="examplemod.png"
 credits="TurtyWurty, minemobs"
-authors="FuguTeam"
+authors="PufferTeam"
 description='''
 ...
 '''
