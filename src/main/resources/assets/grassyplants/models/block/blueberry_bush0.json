@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "grassyplants:blocks/blueberry_bush_stage0"
+  }
+}
